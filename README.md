@@ -96,13 +96,10 @@ Add files via upload/
 ## 🖼️ OLED Display Output
 
 ### Example 1:
-![OLED Preview 1](Output/oled_preview1.png)
+![OLED Preview 1](Output/Jansenani_Oled_lmage.jpg)
 
 ### Example 2:
-![OLED Preview 2](Output/oled_preview2.png)
-
-> 📸 Replace the above images with your actual output screenshots inside the `Output/` folder.
-
+![OLED Preview 2](Output/PawanKalyan_Oled_image.jpg)
 ---
 
 ## 📝 License
